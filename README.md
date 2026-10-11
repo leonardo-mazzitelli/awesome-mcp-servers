@@ -348,6 +348,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
 
 <br />
+- <img src="https://traderwai.com/icon.png" height="14"/> [TraderWAI](https://traderwai.com) - Remote MCP server (`https://mcp.traderwai.com`, OAuth) that gives AI live charts and market data for forex, gold, indices and crypto, strategy backtests, and trade execution on MetaTrader, cTrader, TradeLocker, DXtrade, Binance and Bybit, with every order approved by the user
 
 ## 🧬 <a name="research-data"></a>Research & Data
 
